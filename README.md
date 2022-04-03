@@ -1,11 +1,10 @@
 <h1>Hi! I'm Dino <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm currently working as **Software Engineer** at [Samsung R&D Indonesia](https://www.samsung.com/id/srin/) 
+I'm **Software Engineer** at [Samsung R&D Indonesia](https://www.samsung.com/id/srin/) 
 
 ---
 
-- Hackathon hunter, love solve problem in creative ways
-- Curently learning about **Function as a Service Technology on Cloud**
+- Curently learn and develop **Function as a Service (FaaS) Technology on Cloud**
 - Common programming languages: **Java - Kotlin - Javascript** 
 
 ---
