@@ -4,7 +4,7 @@ I'm **Software Engineer** at [Samsung R&D Indonesia](https://www.samsung.com/id/
 
 ---
 
-- Curently learn and develop **Function as a Service (FaaS) Technology on Cloud**
+- Currently work in **Serverless Project**
 - Common programming languages: **Java - Kotlin - Javascript** 
 
 ---
