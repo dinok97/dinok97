@@ -4,8 +4,5 @@ I'm currently learning Data Science at Uppsala University.
 
 Previously, I worked as Software Engineer at [Samsung R&D Indonesia](https://www.samsung.com/id/srin/) 
 
----
----
-
 📫 How to reach me:
   **[Linked-in](https://www.linkedin.com/in/dino-keylas/), [Instagram](https://instagram.com/dinokeylas)**
